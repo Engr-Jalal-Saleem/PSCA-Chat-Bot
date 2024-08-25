@@ -208,7 +208,6 @@ typing-inspect==0.9.0
 typing_extensions>=4.6.3,<5
 tzdata==2023.3
 ultralytics==8.0.45
-uvicorn==1.6.3
 validators==0.21.4
 wandb==0.15.10
 wcwidth==0.2.8
